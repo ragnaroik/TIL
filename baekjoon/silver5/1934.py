@@ -1,3 +1,7 @@
+# 1934. 최소공배수. 
+# Math. Silver 5
+# https://www.acmicpc.net/problem/1934
+
 T = int(input())
 
 def find_common_multiple(A,B):
