@@ -7,4 +7,5 @@
 
 * Objective: 1 Day 1 Algorithm / Gold 1 in 2021
 * [problem number].py : solved it on my own
+* [problem_number]_time.py : Time problem
 * [problem number]_searched.py : searched solution
